@@ -1,0 +1,2 @@
+# gitegco
+tutorial for egco
